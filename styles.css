@@ -1,0 +1,167 @@
+body{
+  margin:0 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #eaf6f6;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+  line-height:2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.3rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+
+
+
+td{
+  padding: 15px;
+}
+a:link{
+color:blue;
+text-decoration: none;
+text-shadow: 5px;
+}
+
+#hobbies{
+  margin-top: 40px;
+}
+
+#myProgress1 {
+  width: 60%;
+  background-color: white;
+  display: inline-block;
+
+}
+
+#myProgress2 {
+  width: 60%;
+  background-color: white;
+  float: left;
+
+}
+
+#myBar1 {
+  width: 45%;
+  height: 30px;
+  background-color: mediumturquoise;
+}
+
+#myBar2 {
+  width: 50%;
+  height: 30px;
+  background-color: mediumturquoise;
+}
+
+a:hover{
+  color: white;
+  text-decoration: underline;
+}
+
+.header{
+  background-color: #66BFBF;
+  height:80px;
+  width:auto;
+
+}
+
+.left{
+  display:inline-block;
+  height:60px;
+  width:180px;
+  background-color: #66BFBF;
+  margin:10px;
+  padding: 5px;
+  float: left;
+}
+
+
+
+.right{
+  display:inline-block;
+  background-color: #66BFBF;
+  float: right;
+  height:60px;
+  margin-left: 0,100px,10px,0;
+}
+
+.top-container{
+  padding-top: 100px;
+  position: relative;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 40px 0 0 0;
+}
+.bottom-container p{
+  color: #EAF6F6;
+  margin-bottom: 0;
+}
+.social-media-handels{
+  color: #EAF6F6;
+}
+.bottom-container img{
+  height:32px;
+  width:32px;
+  margin:5px 3px 0 3px;
+}
+.cloud-1{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.cloud-2{
+  position: absolute;
+  bottom: 300px;
+  left:300px;
+}
+.profile img{
+  padding-top:20px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto;
+ text-align: left;
+ line-height: 2;
+}
+.skill{
+  margin: 140px 0 0 0;
+}
+.web {
+  height:25%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.cp {
+  height:25%;
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.Intro-p{
+  color: #40514E;
+  width:50%;
+  margin:auto;
+}
+hr{
+  width: 5%;
+  border-width: 10px 0 0;
+  color: #aaaaaa;
+  border-style: dotted;
+  margin-top: 30px;
+}
+.profile-image{
+  height:300px;
+  width: 300px;
+}
